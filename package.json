@@ -1,0 +1,26 @@
+{
+  "name": "skynet-dsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashokhruzbek/SkyNet-DSA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ashokhruzbek/SkyNet-DSA/issues"
+  },
+  "homepage": "https://github.com/ashokhruzbek/SkyNet-DSA#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
