@@ -73,10 +73,10 @@ console.log(daraxti.search(30)); // true
 const HashTable = require('./hashing/HashTable');
 const jadvali = new HashTable();
 
-jadvali.set('ism', 'Shoxruz');
-jadvali.set('yosh', 25);
+jadvali.set('ism', 'Tohirjon');
+jadvali.set('yosh', 22);
 
-console.log(jadvali.get('ism'));   // 'Shoxruz'
+console.log(jadvali.get('ism'));   // 'Tohirjon'
 console.log(jadvali.keys());       // ['ism', 'yosh']
 ```
 **Qo'llash joyları:** Database, Cache tizimlari, JavaScript Object
