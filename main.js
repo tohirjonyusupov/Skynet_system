@@ -6,7 +6,6 @@ const HashTable = require('./hashing/HashTable');
 const Graph = require('./graph/Graph');
 const Dijkstra = require('./graph/Dijkstra');
 const Prim = require('./graph/Prim');
-const Kruskal = require('./graph/Kruskal');
 
 function pause(ms = 2000) {
 return new Promise(resolve => setTimeout(resolve, ms));
